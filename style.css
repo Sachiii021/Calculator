@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@200&display=swap');
+
+html,
+body {
+  height: 100%;
+  width: 300px;
+  font-family: 'Noto', sans-serif;
+}
+.container{
+ 
+  border:2px solid black;
+  border-radius : 0.5rem ;
+}
+
+.button {
+  width: 50px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px;
+  border-radius: 9px;
+  cursor: pointer;
+}
+
+.row {
+  margin: 8px 0;
+}
+
+.row input {
+  text-align: right;
+  width: 231px;
+  font-size: 18px;
+  margin: 0;
+  padding: 10px 0px;
+  border: 2px solid black;
+  border-radius: 5px;
+ 
+}
